@@ -6,7 +6,7 @@
 Here's a little about what I'm currently up to:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talamproxy&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talamproxy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭  Android, Web and Security
 - 🌱 I am currently getting into cybersecurity to learn more on designing secure systems and networks.
