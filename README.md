@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm Brian Kiptalam, A Software Developer and Cybersecurity Analyst.
+#### I'm Brian Kiptalam. Software Developer and Cybersecurity Analyst.
 ---
 
 Here's a little about what I'm currently up to:
