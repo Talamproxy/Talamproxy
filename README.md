@@ -6,8 +6,7 @@
 Here's a little about what I'm currently up to:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talamproxy&layout=compact&theme=merko)] ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talamproxy&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talamproxy&layout=compact&theme=merko)] 
 - 🔭  Android, Web and Security
 - 🌱 I am currently getting into cybersecurity to learn more on designing secure systems and networks.
 - 💻 Check out my potfolio website [Brian Kiptalam](https://brian-kiptalam.co.ke/)
