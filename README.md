@@ -31,6 +31,7 @@ Here's a little about what I'm currently up to:
 --- -->
 ### Languages
 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![alt text](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![alt text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
