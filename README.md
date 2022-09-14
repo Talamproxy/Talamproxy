@@ -9,7 +9,7 @@ Here's a little about what I'm currently up to:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talamproxy&layout=compact&theme=merko)] 
 - 🔭  Android, Web and Security
 - 🌱 I am currently getting into cybersecurity to learn more on designing secure systems and networks.
-- 💻 Check out my potfolio website [Brian Kiptalam](https://brian-kiptalam.co.ke/)
+- 💻 Check out my portfolio website [Brian Kiptalam](https://brian-kiptalam.co.ke/)
 - 📫 You can find me on: [![IMAGE ALT TEXT HERE](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.kiptalam.usa@gmail.com/) [![IMAGE ALT TEXT HERE](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kiptalambrian) [![IMAGE ALT TEXT HERE](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briankiptalam/)
 
 <!-- ### Frameworks
