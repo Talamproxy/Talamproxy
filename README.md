@@ -1,15 +1,3 @@
-## Hi there 👋
-
-#### I'm Brian Kiptalam. Software Developer and Cybersecurity Analyst.
----
-
-Here's a little about what I'm currently up to:
-
-- 🔭  Android, Web and Security
-- 🌱 Currently in cybersecurity designing secure systems and networks.
-- 💻 Check out my portfolio website [Brian Kiptalam](https://brian-kiptalam.co.ke/)
-- 📫 You can find me on: [![IMAGE ALT TEXT HERE](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.kiptalam.usa@gmail.com/) [![IMAGE ALT TEXT HERE](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kiptalambrian) [![IMAGE ALT TEXT HERE](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briankiptalam/)
-
 <!-- ### Frameworks
 
 ![alt text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
